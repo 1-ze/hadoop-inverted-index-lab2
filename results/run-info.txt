@@ -1,0 +1,1 @@
+HDFS_BASE=/user/zrz/lab2_real_20261028

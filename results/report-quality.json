@@ -1,0 +1,22 @@
+{
+  "status": "PASS",
+  "pdf_pages": 7,
+  "body_font": "Microsoft YaHei",
+  "body_font_pt": 12,
+  "line_spacing": 1.25,
+  "fonts_embedded": {
+    "/BAAAAA+MicrosoftYaHei": true,
+    "/CAAAAA+MicrosoftYaHei-Bold": true,
+    "/DAAAAA+MicrosoftYaHei": true
+  },
+  "visual_pages_checked": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "github_uri_present": true
+}

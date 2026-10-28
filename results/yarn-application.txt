@@ -1,0 +1,27 @@
+2026-10-28 20:14:59,478 INFO client.DefaultNoHARMFailoverProxyProvider: Connecting to ResourceManager at /0.0.0.0:8032
+2026-10-28 20:15:03,933 INFO conf.Configuration: resource-types.xml not found
+2026-10-28 20:15:03,940 INFO resource.ResourceUtils: Unable to find 'resource-types.xml'.
+Application Report : 
+	Application-Id : application_1793189289440_0001
+	Application-Name : lab2-inverted-index
+	Application-Type : MAPREDUCE
+	User : zrz
+	Queue : root.default
+	Application Priority : 0
+	Start-Time : 1793189410412
+	Finish-Time : 1793189664474
+	Progress : 100%
+	State : FINISHED
+	Final-State : SUCCEEDED
+	Tracking-URL : http://zrz-VirtualBox:19888/jobhistory/job/job_1793189289440_0001
+	RPC Port : 40537
+	AM Host : zrz-VirtualBox
+	Aggregate Resource Allocation : 407647 MB-seconds, 790 vcore-seconds
+	Aggregate Resource Preempted : 0 MB-seconds, 0 vcore-seconds
+	Log Aggregation Status : DISABLED
+	Diagnostics : 
+	Unmanaged Application : false
+	Application Node Label Expression : <Not set>
+	AM container Node Label Expression : <DEFAULT_PARTITION>
+	TimeoutType : LIFETIME	ExpiryTime : UNLIMITED	RemainingTime : -1seconds
+

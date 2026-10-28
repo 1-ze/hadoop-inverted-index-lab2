@@ -1,0 +1,6 @@
+PASS: actual Hadoop boundary job
+data	<a.txt,3>;<b.txt,1>;<total,4>.
+hadoop	<a.txt,1>;<b.txt,1>;<total,2>.
+index	<a.txt,2>;<total,2>.
+search	<b.txt,1>;<total,1>.
+Covered: repeated words, case, punctuation, digits, stopwords, empty file, stopword-only file.

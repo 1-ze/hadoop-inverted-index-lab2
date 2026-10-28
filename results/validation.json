@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "documents": 12,
+  "stopwords": 46,
+  "raw_tokens": 45956,
+  "removed_stopwords": 14142,
+  "indexed_tokens": 31814,
+  "distinct_terms": 3438,
+  "postings": 8097,
+  "all_postings_match": true,
+  "corpus_total": 31814
+}

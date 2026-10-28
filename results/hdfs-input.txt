@@ -1,0 +1,13 @@
+Found 12 items
+-rw-r--r--   1 zrz supergroup       6236 2026-10-28 20:09 /user/zrz/lab2_real_20261028/input/document01.txt
+-rw-r--r--   1 zrz supergroup      19466 2026-10-28 20:09 /user/zrz/lab2_real_20261028/input/document02.txt
+-rw-r--r--   1 zrz supergroup      26837 2026-10-28 20:09 /user/zrz/lab2_real_20261028/input/document03.txt
+-rw-r--r--   1 zrz supergroup      23950 2026-10-28 20:09 /user/zrz/lab2_real_20261028/input/document04.txt
+-rw-r--r--   1 zrz supergroup      37368 2026-10-28 20:09 /user/zrz/lab2_real_20261028/input/document05.txt
+-rw-r--r--   1 zrz supergroup      56871 2026-10-28 20:09 /user/zrz/lab2_real_20261028/input/document06.txt
+-rw-r--r--   1 zrz supergroup       3384 2026-10-28 20:09 /user/zrz/lab2_real_20261028/input/document07.txt
+-rw-r--r--   1 zrz supergroup      26895 2026-10-28 20:09 /user/zrz/lab2_real_20261028/input/document08.txt
+-rw-r--r--   1 zrz supergroup       4731 2026-10-28 20:09 /user/zrz/lab2_real_20261028/input/document09.txt
+-rw-r--r--   1 zrz supergroup      35764 2026-10-28 20:09 /user/zrz/lab2_real_20261028/input/document10.txt
+-rw-r--r--   1 zrz supergroup       8112 2026-10-28 20:09 /user/zrz/lab2_real_20261028/input/document11.txt
+-rw-r--r--   1 zrz supergroup      40232 2026-10-28 20:09 /user/zrz/lab2_real_20261028/input/document12.txt

@@ -1,0 +1,59 @@
+Ubuntu 22.04.5 LTS
+Linux 6.8.0-101-generic
+openjdk version "11.0.32" 2026-07-21
+OpenJDK Runtime Environment (build 11.0.32+9-post-1ubuntu1-22.04-Ubuntu)
+OpenJDK 64-Bit Server VM (build 11.0.32+9-post-1ubuntu1-22.04-Ubuntu, mixed mode, sharing)
+Hadoop 3.4.3
+               total        used        free      shared  buff/cache   available
+内存：      3.8Gi       547Mi       2.6Gi        13Mi       718Mi       3.1Gi
+交换：      2.5Gi          0B       2.5Gi
+2
+2026-10-28T20:05:37+08:00
+2464 ResourceManager
+2705 Jps
+1859 NameNode
+1988 DataNode
+2580 NodeManager
+2175 SecondaryNameNode
+Configured Capacity: 25180848128 (23.45 GB)
+Present Capacity: 5969653760 (5.56 GB)
+DFS Remaining: 5965799424 (5.56 GB)
+DFS Used: 3854336 (3.68 MB)
+DFS Used%: 0.06%
+Replicated Blocks:
+	Under replicated blocks: 2
+	Blocks with corrupt replicas: 0
+	Missing blocks: 0
+	Missing blocks (with replication factor 1): 0
+	Low redundancy blocks with highest priority to recover: 2
+	Pending deletion blocks: 0
+Erasure Coded Block Groups: 
+	Low redundancy block groups: 0
+	Block groups with corrupt internal blocks: 0
+	Missing block groups: 0
+	Low redundancy blocks with highest priority to recover: 0
+	Pending deletion blocks: 0
+
+-------------------------------------------------
+Live datanodes (1):
+
+Name: 127.0.0.1:9866 (localhost)
+Hostname: zrz-VirtualBox
+Decommission Status : Normal
+Configured Capacity: 25180848128 (23.45 GB)
+DFS Used: 3854336 (3.68 MB)
+Non DFS Used: 17906139136 (16.68 GB)
+DFS Remaining: 5965799424 (5.56 GB)
+DFS Used%: 0.02%
+DFS Remaining%: 23.69%
+Configured Cache Capacity: 0 (0 B)
+Cache Used: 0 (0 B)
+Cache Remaining: 0 (0 B)
+Cache Used%: 100.00%
+Cache Remaining%: 0.00%
+Xceivers: 0
+Last contact: Wed Oct 28 20:08:02 CST 2026
+Last Block Report: Wed Oct 28 20:06:50 CST 2026
+Num of Blocks: 18
+
+
