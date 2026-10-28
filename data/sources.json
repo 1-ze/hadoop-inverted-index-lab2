@@ -1,0 +1,122 @@
+[
+  {
+    "filename": "document01.txt",
+    "title": "Hadoop single node setup",
+    "url": "https://hadoop.apache.org/docs/r3.4.3/hadoop-project-dist/hadoop-common/SingleCluster.html",
+    "downloaded_at": "2026-10-28T11:23:39.930238+00:00",
+    "bytes": 6236,
+    "sha256": "ded5f2f5d86a11598aaa96c89aac75eaf237fcfc22cc7b944f9efea1f8e94a0a",
+    "license": "Apache-2.0",
+    "tokens": 942
+  },
+  {
+    "filename": "document02.txt",
+    "title": "Hadoop cluster setup",
+    "url": "https://hadoop.apache.org/docs/r3.4.3/hadoop-project-dist/hadoop-common/ClusterSetup.html",
+    "downloaded_at": "2026-10-28T11:23:39.994782+00:00",
+    "bytes": 19466,
+    "sha256": "133945a129c0c57b2242230ef92309550f07b277fc2804cd8b9d1d7d494657ea",
+    "license": "Apache-2.0",
+    "tokens": 3044
+  },
+  {
+    "filename": "document03.txt",
+    "title": "HDFS architecture",
+    "url": "https://hadoop.apache.org/docs/r3.4.3/hadoop-project-dist/hadoop-hdfs/HdfsDesign.html",
+    "downloaded_at": "2026-10-28T11:23:40.057838+00:00",
+    "bytes": 26837,
+    "sha256": "65b708f1c2f5172623f9e773285567b0a696600ec194e42d246a7aa9fa38ec18",
+    "license": "Apache-2.0",
+    "tokens": 4401
+  },
+  {
+    "filename": "document04.txt",
+    "title": "HDFS user guide",
+    "url": "https://hadoop.apache.org/docs/r3.4.3/hadoop-project-dist/hadoop-hdfs/HdfsUserGuide.html",
+    "downloaded_at": "2026-10-28T11:23:39.993814+00:00",
+    "bytes": 23950,
+    "sha256": "8a7b29924e18660e0d9d0eb90aeeb178361ea78be43a341f0134dd4de6d389b2",
+    "license": "Apache-2.0",
+    "tokens": 3854
+  },
+  {
+    "filename": "document05.txt",
+    "title": "Hadoop filesystem shell",
+    "url": "https://hadoop.apache.org/docs/r3.4.3/hadoop-project-dist/hadoop-common/FileSystemShell.html",
+    "downloaded_at": "2026-10-28T11:23:41.894813+00:00",
+    "bytes": 37368,
+    "sha256": "b29247bd3ee41f1d8bad34ae43bd49c31447000d957d1a033998d28b202bd87c",
+    "license": "Apache-2.0",
+    "tokens": 6053
+  },
+  {
+    "filename": "document06.txt",
+    "title": "MapReduce tutorial",
+    "url": "https://hadoop.apache.org/docs/r3.4.3/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html",
+    "downloaded_at": "2026-10-28T11:23:42.253620+00:00",
+    "bytes": 56871,
+    "sha256": "b795dca59ad163f45f7a9c5fec6a653b0630cad4549182e0dc4cdb2ad00906b7",
+    "license": "Apache-2.0",
+    "tokens": 8721
+  },
+  {
+    "filename": "document07.txt",
+    "title": "YARN architecture",
+    "url": "https://hadoop.apache.org/docs/r3.4.3/hadoop-yarn/hadoop-yarn-site/YARN.html",
+    "downloaded_at": "2026-10-28T11:23:41.625471+00:00",
+    "bytes": 3384,
+    "sha256": "444fb68f375296776851d82f237c15cec63f74671697e61c864eda955ec75fe7",
+    "license": "Apache-2.0",
+    "tokens": 494
+  },
+  {
+    "filename": "document08.txt",
+    "title": "Hadoop Streaming",
+    "url": "https://hadoop.apache.org/docs/r3.4.3/hadoop-streaming/HadoopStreaming.html",
+    "downloaded_at": "2026-10-28T11:23:41.986395+00:00",
+    "bytes": 26895,
+    "sha256": "3ae8d86f29d8d857106447e09e5b0e2dc6b3b37cc566bc75eb21d31a3ce35d86",
+    "license": "Apache-2.0",
+    "tokens": 4204
+  },
+  {
+    "filename": "document09.txt",
+    "title": "Hadoop archive guide",
+    "url": "https://hadoop.apache.org/docs/r3.4.3/hadoop-archives/HadoopArchives.html",
+    "downloaded_at": "2026-10-28T11:23:43.347342+00:00",
+    "bytes": 4731,
+    "sha256": "4b3023a2acc28cee2680071a2a3f720412809697b73d2a1565cde218d9dac397",
+    "license": "Apache-2.0",
+    "tokens": 840
+  },
+  {
+    "filename": "document10.txt",
+    "title": "DistCp guide",
+    "url": "https://hadoop.apache.org/docs/r3.4.3/hadoop-distcp/DistCp.html",
+    "downloaded_at": "2026-10-28T11:23:43.882189+00:00",
+    "bytes": 35764,
+    "sha256": "22da851c08893a85e20a43e29c7799dff0604af8bd77a0635da25581898496b7",
+    "license": "Apache-2.0",
+    "tokens": 5755
+  },
+  {
+    "filename": "document11.txt",
+    "title": "HDFS snapshots",
+    "url": "https://hadoop.apache.org/docs/r3.4.3/hadoop-project-dist/hadoop-hdfs/HdfsSnapshots.html",
+    "downloaded_at": "2026-10-28T11:23:43.680028+00:00",
+    "bytes": 8112,
+    "sha256": "d9ee00ebf4d4acc054407c361e01978142a8fa41dc85a92abc9e573ac791dc29",
+    "license": "Apache-2.0",
+    "tokens": 1169
+  },
+  {
+    "filename": "document12.txt",
+    "title": "HDFS high availability with QJM",
+    "url": "https://hadoop.apache.org/docs/r3.4.3/hadoop-project-dist/hadoop-hdfs/HDFSHighAvailabilityWithQJM.html",
+    "downloaded_at": "2026-10-28T11:23:44.209320+00:00",
+    "bytes": 40232,
+    "sha256": "8e4a188f710fffbd86297a0e83838b3ace10ad9ebce566de47a464dbf3212e46",
+    "license": "Apache-2.0",
+    "tokens": 6479
+  }
+]

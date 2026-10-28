@@ -1,0 +1,8 @@
+Hadoop inverted index coursework implementation
+
+The documents under data/document*.txt are text extracts of the Apache Hadoop
+3.4.3 documentation, published by The Apache Software Foundation.
+Original sources and SHA-256 values are listed in data/sources.json.
+Site navigation and HTML formatting were removed for this indexing experiment.
+Apache Hadoop and associated project names are trademarks of their owners.
+See LICENSE for the Apache License, Version 2.0.
